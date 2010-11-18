@@ -5,7 +5,7 @@ title: Résumé (Chad Kay Burggraf)
 
 h1. Chad Kay Burggraf
 
-p(meta). 6840 E 2nd St Apt 22 - Scottsdale, AZ 85251 - (602) 690-8548<br/>"www.tastycodes.com":http://www.tastycodes.com - "chad@tastycodes.com":mailto:chad@tastycodes.com !(ribbon)/assets/img/download_ribbon.png(Download as PDF)!:/assets/Chad_Burggraf_Resume_2010-11-17.pdf
+p(meta). 6840 E 2nd St Apt 22 - Scottsdale, AZ 85251 - (602) 690-8548<br/>"www.tastycodes.com":http://www.tastycodes.com - "chad@tastycodes.com":mailto:chad@tastycodes.com !(ribbon png)/assets/img/download_ribbon.png(Download as PDF)!:/assets/Chad_Burggraf_Resume_2010-11-17.pdf
 
 h2. Education
 

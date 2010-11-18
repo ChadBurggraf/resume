@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>src/index.textile</string>
+	<string>src/_includes/footer.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -25,6 +25,8 @@
 			<string>src/_layouts</string>
 		</dict>
 		<dict>
+			<key>expanded</key>
+			<true/>
 			<key>name</key>
 			<string>assets</string>
 			<key>regexFolderFilter</key>
@@ -36,29 +38,27 @@
 			<key>filename</key>
 			<string>src/_config.yml</string>
 			<key>lastUsed</key>
-			<date>2010-11-18T03:31:26Z</date>
+			<date>2010-11-18T17:04:05Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
 			<string>src/index.textile</string>
 			<key>lastUsed</key>
-			<date>2010-11-18T03:31:26Z</date>
-			<key>selected</key>
-			<true/>
+			<date>2010-11-18T17:24:00Z</date>
 		</dict>
 	</array>
 	<key>fileHierarchyDrawerWidth</key>
 	<integer>200</integer>
 	<key>metaData</key>
 	<dict>
-		<key>src/_config.yml</key>
+		<key>src/_includes/footer.html</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>0</integer>
+				<integer>23</integer>
 				<key>line</key>
-				<integer>0</integer>
+				<integer>2</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
@@ -121,12 +121,26 @@
 			<key>firstVisibleLine</key>
 			<integer>83</integer>
 		</dict>
+		<key>src/assets/js/DD_belatedPNG_0.0.8a-min.js</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>0</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
 		<key>src/index.textile</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>274</integer>
+				<integer>184</integer>
 				<key>line</key>
 				<integer>7</integer>
 			</dict>
@@ -138,9 +152,10 @@
 	</dict>
 	<key>openDocuments</key>
 	<array>
-		<string>src/index.textile</string>
 		<string>src/_includes/header.html</string>
-		<string>src/_config.yml</string>
+		<string>src/_includes/footer.html</string>
+		<string>src/assets/js/DD_belatedPNG_0.0.8a-min.js</string>
+		<string>src/index.textile</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
