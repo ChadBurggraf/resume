@@ -7,6 +7,8 @@
 	<key>documents</key>
 	<array>
 		<dict>
+			<key>expanded</key>
+			<true/>
 			<key>name</key>
 			<string>_includes</string>
 			<key>regexFolderFilter</key>
@@ -34,13 +36,13 @@
 			<key>filename</key>
 			<string>src/_config.yml</string>
 			<key>lastUsed</key>
-			<date>2010-11-18T02:46:00Z</date>
+			<date>2010-11-18T03:31:26Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
 			<string>src/index.textile</string>
 			<key>lastUsed</key>
-			<date>2010-11-18T02:46:08Z</date>
+			<date>2010-11-18T03:31:26Z</date>
 			<key>selected</key>
 			<true/>
 		</dict>
@@ -49,6 +51,34 @@
 	<integer>200</integer>
 	<key>metaData</key>
 	<dict>
+		<key>src/_config.yml</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>0</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>src/_includes/header.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>13</integer>
+				<key>line</key>
+				<integer>14</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
 		<key>src/_layouts/default.html</key>
 		<dict>
 			<key>caret</key>
@@ -109,6 +139,8 @@
 	<key>openDocuments</key>
 	<array>
 		<string>src/index.textile</string>
+		<string>src/_includes/header.html</string>
+		<string>src/_config.yml</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
