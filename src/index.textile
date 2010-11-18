@@ -1,0 +1,77 @@
+---
+layout: default
+title: Résumé (Chad Kay Burggraf)
+---
+
+h1. Chad Kay Burggraf
+
+p(meta). 6840 E 2nd St Apt 22 - Scottsdale, AZ 85251 - (602) 690-8548<br/>"www.tastycodes.com":http://www.tastycodes.com - "chad@tastycodes.com":mailto:chad@tastycodes.com !(ribbon)/assets/img/download_ribbon.png(Download as PDF)!:/assets/Chad_Burggraf_Resume_2010-11-17.pdf
+
+h2. Education
+
+p(right light). December 2005
+GPA: 3.50 (Major)
+Dean's List: Fall 2000, Spring 2005
+
+p(left). *Bachelor of Science, Computer Science*
+Concentration: *Software Engineering*
+Arizona State University; Tempe, AZ
+
+h2. Expertise
+
+I am a developer that loves usable, shipping software. I focus on simplicity and usability for the end user. I obsess over understandability in my code. I am never religious about the tools or technology I use. 
+
+h3. Programming Languages I Probably Used Today
+
+p(indent). C#, JavaScript, Objective-C, SQL
+
+h3. Programming Languages I Can Be Productive In With An Internet Connection
+
+p(indent). C, Java, ActionScript, Python, sh*, awk
+
+h3. Programming Languages I Plan On Being Productive In Someday
+
+p(indent). Haskell, F#, OCaml
+
+h2. Recent Projects
+
+h3. Survey Engine %(right light)Winter 2007 - Winter 2010%
+
+A web application I developed for "New Amsterdam Consulting, Inc.":http://newamsterdamconsulting.com/ that serves as a platform for large data collection and reporting initiatives. The platform is currently being used to power the "Council of Juvenile Correctional Administrators'":http://cjca.net/ Performance-based Standards, Community-based Standards and Yearbook projects.
+
+The application is built to run on Windows using ASP.NET, with Microsoft SQL Server as the primary data store. The main architectural components include a survey building, versioning and distribution system, and a point-and-click reporting system. The application is currently used to deploy and report on surveys of up to hundreds of questions long distributed to thousands of users, collecting and analyzing millions of data points.
+
+I began the project in 2007 and have been the primary developer ever since, with light support from colleagues during maintenance or new feature releases.
+
+h3. Virtual Keychain %(right light)Winter 2006 - Present%
+"virtualkeychain.com":https://virtualkeychain.com/
+
+A web application I developed to maintain my vast and ever-growing collection security credentials. The software is built as a stateless JSON API with HTML+JavaScript and iPhone+Objective-C clients. I've been running the service free of charge since 2006.
+
+h3. Libraries and Tools %(right light)Always - Forever%
+"github.com/ChadBurggraf":http://github.com/ChadBurggraf
+
+I build a ton of software in my free time. Most of it sits on various hard drives at my house or office, but once in a while I publish it online for others to use. My GitHub profile contains a small selection of side projects, libraries and tools that I've release over the years or that I've contributed to. These include:
+
+* Tasty Libraries %(block light small)A set of C# utilities and helpers for background jobs, object URL tokens, geocoding and more.%
+* Zencoder.NET %(block light small)A C# client library for the Zencoder cloud encoding service.%
+* SThreeQL %(block light small)A basic Microsoft SQL Server + Amazon S3 backup and restore utility.%
+* Kayjax %(block light small)Simple JSON APIs and Ajax based on Windows Communication Foundation.%
+* SWFClipboard %(block light small)A JavaScript to Flash bridge for interacting with user clipboards from a web application.%
+* WMD %(block light small)A re-architecture of the popular WMD Markdown editor.%
+
+h3. Other
+
+I have built or contributed to many other projects over the last few years, including Content Management Systems, e-commerce applications, interactive Flash dashboards and widgets, Windows service applications and iPhone apps. 
+
+h2. Experience
+
+h3. Senior Developer and Architect %(right light)August 2005 - Present%
+"New Amsterdam Consulting, Inc.":http://newamsterdamconsulting.com/ %- Scottsdale, AZ%
+
+I was hired at NAC after an internship during my final year of college. My work has revolved around web and database applications, iPhone apps, scripting (for the web and desktop) and front-end design and implementation. In 2008 I became NAC's senior developer.
+
+h3. Principal %(right light)November 2010 - Present%
+"Tasty Codes":http://tastycodes.com/ %- Socttsdale, AZ%
+
+Tasty Codes is my independent contracting business. I've completed or am contracted to complete software development and design work for various clients in the Phoenix area. If you are interested in hiring me for custom software development or consultation, regardless of language or platform, please get in touch.

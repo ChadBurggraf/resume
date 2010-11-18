@@ -1,0 +1,135 @@
+html
+{
+	height: 100%;
+}
+
+body
+{
+	height: 100%;
+	font-size: 62.5%;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", Tahoma, sans-serif;
+}
+
+em
+{
+	font-style: italic;
+}
+
+h1
+{
+	font-size: 28px;
+	line-height: 36px;
+	margin: 22px 0;
+	text-align: center;
+}
+
+h2
+{
+	font-size: 22px;
+	line-height: 32px;
+	margin: 33px 0 11px;
+	clear: both;
+}
+
+h3
+{
+	font-weight: bold;
+	margin: 22px 0 11px;
+}
+
+h3 a,
+h3 span
+{
+	font-size: 13px;
+	font-weight: normal;
+}
+
+p
+{
+	margin-bottom: 22px;
+}
+
+ol,
+ul
+{
+	margin: 0 0 22px 44px;
+}
+
+li 
+{
+	list-style: square outside;
+	margin-bottom: 11px;
+}
+
+strong
+{
+	font-weight: bold;
+}
+
+#container
+{
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+}
+
+#content
+{
+	width: 700px;
+	margin: auto;
+	font-size: 15px;
+	line-height: 22px;
+}
+
+.block
+{
+	display: block;
+}
+
+.clear
+{
+	clear: both;
+}
+
+.indent
+{
+	margin-left: 22px;
+}
+
+.left 
+{
+	float: left;
+}
+
+.light
+{
+	color: #696969;
+}
+
+.meta
+{
+	text-align: center;
+	font-size: 14px;
+	line-height: 18px;
+	margin-top: -14px;
+	color: #999;
+}
+
+.ribbon
+{
+	position: absolute;
+	left: 0;
+	top: 0;
+	border: none;
+}
+
+.right
+{
+	float: right;
+	text-align: right;
+}
+
+.small
+{
+	font-size: 13px;
+}

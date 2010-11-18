@@ -1,0 +1,76 @@
+a
+{
+	color: #000;
+	font-style: italic;
+}
+
+h1
+{
+	font-size: 24px;
+	line-height: 30px;
+	margin: 0 0 18px;
+}
+
+h2
+{
+	font-weight: bold;
+	font-size: 15px;
+	line-height: 22px;
+	margin: 27px 0 9px;
+}
+
+h3
+{
+	margin: 18px 0 9px;
+}
+
+#content
+{
+	width: auto;
+	font-size: 13px;
+	line-height: 18px;
+}
+
+h3 a,
+h3 span
+{
+	font-size: 11px;
+}
+
+p
+{
+	margin-bottom: 18px;
+}
+
+ol,
+ul
+{
+	margin: 0 0 18px 36px;
+}
+
+li 
+{
+	margin-bottom: 9px;
+}
+
+.indent
+{
+	margin-left: 18px;
+}
+
+.meta
+{
+	font-size: 12px;
+	line-height: 16px;
+	margin-top: -12px;
+}
+
+.ribbon
+{
+	display: none;
+}
+
+.small
+{
+	font-size: 11px;
+}
